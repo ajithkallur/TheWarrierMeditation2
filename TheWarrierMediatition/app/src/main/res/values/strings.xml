@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">The Warrier Mediatition</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="random_button_text">Random</string>
+    <string name="previous">Previous</string>
+    <string name="menu_button_text">Menu</string>
+
+    <string name="Text1">Congratulations!</string>
+    <string name="Text3">You have just discovered the best-kept secret in self-improvement, cognitive enhancement, and stress-relief in the world.</string>
+    <string name="Text2">The Total Embodiment Method TEM, born of elite Samurai awareness training in Japan.</string>
+    <string name="Text4">The Total Embodiment Method TEM is a secret form of Samurai meditation unknown to all but the most highly trained practitioners of the ancient arts.!</string>
+    <string name="Text5">Now, for the first time in history, the benefits of Total Embodiment Method TEM are available to you And it will change your life.</string>
+    <string name="Text6">Richard L Haight, a top-level master instructor, trained and certified in Japan in four samurai arts, at the behest of his teacher, Osaki Shizen, is now sharing this incredible, ancient technology with the world before it is lost forever in the rush of modernity.</string>
+    <string name="Text7">But what makes the Total Embodiment Method TEM different from other forms of meditation?</string>
+    <string name="Text8">Almost everything</string>
+    <string name="Text9">But before we get into what makes Total Embodiment Method TEM so powerful, let’s first take a look at what is working well with other forms of meditation.</string>
+    <string name="Text10">Did you know that scientific studies have verified the incredible power of meditation to improve your life?</string>
+    <string name="Text11">Psychology Today provides us with a list of scientifically verified benefits from daily meditation</string>
+    <string name="Text12">Boosts health</string>
+    <string name="Text13">Increases immune function, Decreases pain, Decreases cellular inflammation</string>
+    <string name="Text14">Boosts happiness</string>
+    <string name="Text15">Increases positive emotion, Decreases depression, Decreases stress, Decreases anxiety, Gives perspective</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="toast_button_text">Toast</string>
+    <string name="count_button_text">Count</string>
+</resources>
